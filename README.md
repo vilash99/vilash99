@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**vilash99/vilash99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vilashkumar Daate.
 
-Here are some ideas to get you started:
+I am a full-stack developer.
+- Enthusiastic about crafting applications that are both efficient and scalable!
+- Proficient in Python, Django, and JavaScript.
+- Extensive experience in crafting top-notch SaaS applications!
+- Provide reliable and professional development services!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+- 🏆 Master's degree in Computer Science - RTM University, Nagpur
+- 🏆 Bachelor's degree in Computer Science - RTM University, Nagpur
+
+
+You can also find me on:
+- [My Personal Website](https://vilashdaate.com/)
+- [Upwork](https://www.upwork.com/freelancers/~01e1fcd937632c8a9c)
+- [LinkedIn](https://www.linkedin.com/in/vilashkumar-daate-5754714b/)
+ 
