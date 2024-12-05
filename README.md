@@ -14,7 +14,8 @@ I am a full-stack developer.
 
 
 You can also find me on:
-- [My Personal Website](https://vilashdaate.com/)
+- [My Website](https://www.vpktechnologies.com/)
 - [Upwork](https://www.upwork.com/freelancers/~01e1fcd937632c8a9c)
-- [LinkedIn](https://www.linkedin.com/in/vilashkumar-daate-5754714b/)
+- [LinkedIn](https://www.linkedin.com/in/vilashkumar-daate/)
+- [X](https://x.com/VDaate)
  
