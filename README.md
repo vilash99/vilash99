@@ -2,11 +2,17 @@
 
 My name is Vilashkumar Daate.
 
-I am a full-stack developer.
-- Enthusiastic about crafting applications that are both efficient and scalable!
-- Proficient in Python, Django, and JavaScript.
-- Extensive experience in crafting top-notch SaaS applications!
-- Provide reliable and professional development services!
+I am Python Backend / Full-Stack Engineer building automation solutions, web applications, internal business systems, API integrations, and data-processing workflows. Comfortable working directly with business stakeholders to understand requirements, design solutions, troubleshoot production issues, and deliver maintainable software.
+
+
+### My technical experience includes:
+- Backend Development: Python, Django, Django REST Framework, FastAPI, REST APIs
+- Databases: PostgreSQL, MySQL, SQL
+- Background Processing: Celery, Redis, scheduled tasks, asynchronous workflows
+- Integrations: Microsoft Graph API, OpenSign API, webhooks, third-party APIs
+- Deployment amp; Tools: Docker, Linux, Nginx, Git, DigitalOcean
+- Engineering: Authentication, role-based access control, audit logging, database design, application maintenance
+
 
 ### Education
 - 🏆 Master's degree in Computer Science - RTM University, Nagpur
@@ -14,8 +20,6 @@ I am a full-stack developer.
 
 
 You can also find me on:
-- [My Website](https://www.vpktechnologies.com/)
-- [Upwork](https://www.upwork.com/freelancers/~01e1fcd937632c8a9c)
 - [LinkedIn](https://www.linkedin.com/in/vilashkumar-daate/)
 - [X](https://x.com/VDaate)
  
