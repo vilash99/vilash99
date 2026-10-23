@@ -2,8 +2,9 @@
 
 My name is Vilashkumar Daate.
 
-I am Python Backend / Full-Stack Engineer building automation solutions, web applications, internal business systems, API integrations, and data-processing workflows. Comfortable working directly with business stakeholders to understand requirements, design solutions, troubleshoot production issues, and deliver maintainable software.
+I'm a Senior Python Developer with 4+ years of experience designing, developing, and maintaining backend applications, REST APIs, and business automation solutions.
 
+My expertise lies in Python, Django, Django REST Framework, database design, asynchronous task processing, and third-party API integrations. I focus on building reliable, scalable, and maintainable backend systems that simplify complex workflows and improve operational efficiency.
 
 ### My technical experience includes:
 - Backend Development: Python, Django, Django REST Framework, FastAPI, REST APIs
@@ -20,6 +21,4 @@ I am Python Backend / Full-Stack Engineer building automation solutions, web app
 
 
 You can also find me on:
-- [LinkedIn](https://www.linkedin.com/in/vilashkumar-daate/)
-- [X](https://x.com/VDaate)
- 
+- [LinkedIn](https://www.linkedin.com/in/vilashkumar-daate/) 
